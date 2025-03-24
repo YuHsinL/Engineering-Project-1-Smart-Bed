@@ -79,8 +79,8 @@ void setup() {
   pinMode(M1, OUTPUT);
   pinMode(M2, OUTPUT);
 
-	// Start the serial interface for debugging
-	Serial.begin(57600);
+  // Start the serial interface for debugging
+  Serial.begin(57600);
 
 }
 
